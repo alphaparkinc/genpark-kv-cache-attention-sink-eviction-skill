@@ -1,0 +1,15 @@
+{
+  "name": "genpark-kv-cache-attention-sink-eviction-skill",
+  "version": "1.0.0",
+  "description": "Streaming attention sink preserver and FIFO sliding-window KV cache eviction manager for infinite-context agent loops.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "attention-sink",
+    "kv-cache",
+    "streaming-llm",
+    "context-compaction",
+    "genpark",
+    "mcp"
+  ]
+}
